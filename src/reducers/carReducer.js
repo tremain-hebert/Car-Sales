@@ -1,7 +1,7 @@
   export const REMOVE_FEATURE = "REMOVE_FEATURE";
   export const ADD_FEATURE = "ADD_FEATURE";
   
-  const initialState = {
+  export const initialState = {
     additionalPrice: 0,
     car: {
       price: 26395,
